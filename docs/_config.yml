@@ -18,8 +18,9 @@ email: someworks456@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Awesome Description.
 
-url: "https://twistingtwists.github.io/pikachu_thunderbolt/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/pikachu_thunderbolt" # the subpath of your site, e.g. /blog
+url: "https://twistingtwists.github.io/pikachu_thunderbolt/" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: twistin456
 github_username:  TwistingTwists
 

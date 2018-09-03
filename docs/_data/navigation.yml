@@ -1,6 +1,6 @@
 - name: Home
-  link: {{site.baseurl}}/
+  link: /pikachu_thunderbolt/
 - name: About
-  link: {{site.baseurl}}/about
+  link: /pikachu_thunderbolt/about
 - name: Blog
-  link: {{site.baseurl}}/blog
+  link: /pikachu_thunderbolt/blog
