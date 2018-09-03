@@ -17,8 +17,8 @@ title: Pikachu's ThunderBolt
 email: someworks456@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Awesome Description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/pikachu-thunderbolt" # the subpath of your site, e.g. /blog
+url: "https://twistingtwists.github.io/pikachu_thunderbolt/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: twistin456
 github_username:  TwistingTwists
 
@@ -28,7 +28,8 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
-  subdir : "/pikachu-thunderbolt"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

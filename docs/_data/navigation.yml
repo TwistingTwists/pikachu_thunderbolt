@@ -1,6 +1,6 @@
 - name: Home
-  link: {{site.subdir}}/
+  link: /
 - name: About
-  link: {{site.subdir}}/about
+  link: /about
 - name: Blog
-  link: {{site.subdir}}/blog
+  link: /blog
